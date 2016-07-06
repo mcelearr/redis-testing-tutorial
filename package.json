@@ -1,0 +1,19 @@
+{
+  "name": "redis-testing-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcelearr/redis-testing-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcelearr/redis-testing-tutorial/issues"
+  },
+  "homepage": "https://github.com/mcelearr/redis-testing-tutorial#readme"
+}
